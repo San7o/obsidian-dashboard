@@ -1,7 +1,7 @@
 # obsidian-dashboard
 
 The goal of this project is to build a plugin that displays a customizable dashboard,
-composed of multiple grahical cards. The plugin can interface with online APIs to fetch data on the cards, enabling many possibilities. Example cards are:
+composed of multiple graphical cards. The plugin can interface with online APIs to fetch data for the cards, enabling numerous possibilities. Example cards include:
 
 - to-do list
 

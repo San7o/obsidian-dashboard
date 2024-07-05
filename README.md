@@ -23,7 +23,7 @@ contributions once the plugin is in a more ready state.
 
 # Developement
 
-You need `npm` instaled, the run the commands:
+You need `npm` instaled, then run the commands:
 ```bash
 npm install --save-dev
 npm run dev

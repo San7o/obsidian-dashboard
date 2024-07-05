@@ -1,13 +1,8 @@
 <script lang="ts">
-  export let variable: number;
+  import Card from './Card.svelte' 
 </script>
 
-<div class="number">
-  <span>Welcome to your Dashboard, the variable passed is {variable}</span>
+<div>
+	<Card />
+	<Card />
 </div>
-
-<style>
-  .number {
-    color: red;
-  }
-</style>

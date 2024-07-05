@@ -25,9 +25,6 @@ export class DashboardView extends ItemView {
   async onOpen() {
     this.component = new Root({
       target: this.contentEl,
-      props: {
-        variable: 1
-      }
     });
   }
 
